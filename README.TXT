@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="GS1.jpg" width="400px"</img> 
+    <img src="GS2.jpeg" width="200px"</img> 
 </div>
 
 PROJECT TITLE: GrayScale Images
